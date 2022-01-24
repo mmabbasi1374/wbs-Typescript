@@ -1,0 +1,2 @@
+# wbs-Typescript
+ amazing typescript
